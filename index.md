@@ -1,6 +1,6 @@
 # Erhan Nurettin Kaplan
 ## Yönetim Bilişim Sistemleri Öğrencisi
-### Kişisel Githhub sayfasıdır
+### Kişisel Github sayfasıdır
 
 
 Beceriler
